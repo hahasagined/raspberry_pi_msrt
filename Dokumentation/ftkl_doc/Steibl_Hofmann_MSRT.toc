@@ -1,0 +1,18 @@
+\select@language {german}
+\contentsline {section}{\numberline {1}Aufgabenstellung}{2}
+\contentsline {section}{\numberline {2}Beschreibung des Raspberry Pi}{2}
+\contentsline {subsection}{\numberline {2.1}Allgemein}{2}
+\contentsline {subsection}{\numberline {2.2}Technische Specification}{2}
+\contentsline {subsubsection}{\numberline {2.2.1}Der Prozessor}{2}
+\contentsline {subsubsection}{\numberline {2.2.2}Interfaces}{2}
+\contentsline {subsubsection}{\numberline {2.2.3}General Porpose IO - Pins}{2}
+\contentsline {section}{\numberline {3}Vorbereitung der Plattform}{2}
+\contentsline {subsection}{\numberline {3.1}Die SD-Karte vorbereiten}{2}
+\contentsline {subsubsection}{\numberline {3.1.1}Debian Linux}{3}
+\contentsline {subsubsection}{\numberline {3.1.2}Arch Linux}{3}
+\contentsline {section}{\numberline {4}Programmablauf}{3}
+\contentsline {section}{\numberline {5}Ansteuerung mit $I^2C$}{3}
+\contentsline {section}{\numberline {6}Ansteuerung mit PWM}{3}
+\contentsline {section}{\numberline {A}Literatur- und Quellenverzeichnis}{4}
+\contentsline {section}{\numberline {B}Datasheets}{5}
+\contentsline {subsection}{\numberline {B.1}Datasheet for MCP3008}{5}
